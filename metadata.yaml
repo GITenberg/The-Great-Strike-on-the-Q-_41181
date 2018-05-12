@@ -1,0 +1,27 @@
+_repo: The-Great-Strike-on-the-Q-_41181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, John A.
+    gutenberg_agent_id: '41022'
+    url: http://www.gutenberg.org/2009/agents/41022
+description: ''
+gutenberg_issued: '2012-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41181'
+  lccn: 07029953
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Railroads -- United States -- Employees'
+- !lcsh 'Labor unions -- United States'
+- !lcsh 'Burlington Strike, 1888'
+title: The Great Strike on the "Q"
+url: http://www.gutenberg.org/ebooks/41181
